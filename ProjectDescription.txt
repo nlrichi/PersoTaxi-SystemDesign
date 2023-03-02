@@ -1,0 +1,7 @@
+PersoTaxi
+
+Our system is a ride hailing app which matches riders off personality types as well as allowing friends to book joint rides. Upon downloading the app users are asked to take a quick personality test, data from this test is stored on the app and is used in the booking process. When booking a ride, riders and drivers are matched based off similar personalities; they have the option to decline their match if they do not deem them suitable. Drivers get to see the rider(s) profiles after accepting the ride. Riders are also able to find and add friends on the app allowing easier fare splitting and ride sharing. 
+
+With current ride hailing services, we found the main issue to be with the number of riders per car as a single person booking a ride to location is much more wasteful than public transport. We decided to come up with a middle ground where you can avoid cramped public transport but still not be as impactful towards pollution. Another problem with current shared ride services is riders will often have silent and awkward car journeys, this often creates an awkward situation for the driver as well as the riders. Our app aims to eliminate this problem by matching riders with similar personalities and interests, as well as a preview of their match and the option to decline. Riders also have the option between mixed gender or same gender rides for the comfort of the riders. 
+
+Our main demographic is students as they are often traveling with their friends to similar location e.g., round their campus, school etc.
