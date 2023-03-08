@@ -20,7 +20,7 @@ Here are the tasks that have been assigned to each group member for this week:
 ### Status of Tasks for Week 6
 Here are the status of tasks for week 6:
 1. ***Tanvi Waghela***: Upload the Project Description to GitLab - *Completed*
-2. ***Marie-Claire Yumba*** : Upload the Survey Questions to GitLab - *Incomplete*
+2. ***Marie-Claire Yumba*** : Upload the Survey Questions to GitLab - *completed*
 3. ***Sohayl Zaman*** : Upload the Information Gathering/Analysis of Survey Results to GitLab - *Completed*
 4. ***Richard Abatan Yaya-Abatan***: Upload Functional Requirements to GitLab - *Completed*
 5. ***Abdi Yousuf*** : Upload Non-Functional Requirements to GitLab - *Completed*
