@@ -1,0 +1,55 @@
+Use Case Description: 
+
+Use Case: Booking a ride 
+
+Date: 20/02/2023 
+
+Purpose: Allows the rider to decline a co-rider after booking a ride. 
+
+Related Requirements: The rider must book a ride and decide that the co-rider they were matched with is suitable. 
+
+Actors Involved: 
+
+Primary: Rider 
+
+Secondary: Driver 
+
+Priority: The defined function must be implemented for the functionality off the program. 
+
+Typical event flow: 
+
+The rider launches the app and sets their destination. 
+
+ The rider will then be prompted to choose the arrival time for the driver. 
+
+ After they choose the arrival time, then will be prompted to pick a payment option from either their saved payment methods or a new payment method. 
+
+After the payment has been confirmed, the program searches for nearby riders that have a matching personality. 
+
+The program presents the nearby riders with matching personalities to the rider 
+
+The rider will accept one of the co-riders they have been presented with. (<<includes>> Accept a match) (see Alternative event 1 and 2) 
+
+If both riders accept the ride, then a driver will be located to complete the ride. 
+
+Alternative event flows: 
+
+Alternative event 1: 
+
+1-3. In the Typical event flow. 
+
+The rider declines their match.(<<includes>> Declining a match) 
+
+The rider will be presented with another nearby match 
+
+The rider will eventually accept a co-rider and a driver will be located 
+
+Alternative event 2: 
+
+1-3 In the Typical event flow. 
+
+The rider declines their match(<<includes>>Declining a match) 
+
+The rider will be presented with another nearby match. 
+
+The rider will decline all available matches and be asked to ride alone or cancel their ride.(<<extends>>Cancelling a ride) 
