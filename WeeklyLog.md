@@ -92,6 +92,6 @@ Here are the status of tasks for week 7:
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
 | Yamin Zahoor |   | |
-
+ 
 **Work that still needs to be completed (These are the tasks that were left incomplete):** Uploading the Use Case description to GitLab, Refining functional requirements 4 to 23 and add/remove requirements as necessary
 **Note:** These tasks will be assigned to the same students to be completed
