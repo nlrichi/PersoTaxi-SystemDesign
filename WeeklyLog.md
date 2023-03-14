@@ -98,7 +98,7 @@ Here are the status of tasks for week 7:
 3. ***Sohayl Zaman*** 
     - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Incomplete*
 4. ***Richard Abatan Yaya-Abatan*** 
-    - Refine functional requirements 10 to 12 and add/remove requirements as necessary - *Incomplete*
+    - Refine functional requirements 10 to 12 and add/remove requirements as necessary - *Completed*
 5. ***Abdi Yousuf*** 
     - Refine functional requirements 13 to 15 and add/remove requirements as necessary - *Incomplete*
 6. ***Kavindu Walisinghe*** 
@@ -140,7 +140,6 @@ Here are the tasks that have been assigned to each group member for this week:
     - Refine functional requirements 7 to 9 and add/remove requirements as necessary
 4. ***Richard Abatan Yaya-Abatan*** 
     - Work with your group to create a UML Diagram for PersoTaxi
-    - Refine functional requirements 10 to 12 and add/remove requirements as necessary
 5. ***Abdi Yousuf*** 
     - Work with your group to create a UML Diagram for PersoTaxi
     - Refine functional requirements 13 to 15 and add/remove requirements as necessary
