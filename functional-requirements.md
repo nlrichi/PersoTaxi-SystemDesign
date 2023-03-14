@@ -14,10 +14,10 @@
 13. 
 14. 
 15. 
-16. 
-17. 
-18. 
-19. 
+16. Users in the system can ffind and add friends on the app to share rides with.
+17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
+18. Riders can leave a review plus star rating for their drivers so that the riders know the quality of their drivers.
+19. Drivers may also give the rider(s) a star rating so that other drivers can choose to not accept the ride if the rider(s) star rating affects them. 
 20. 
 21. 
 22. 
