@@ -51,7 +51,7 @@ Here are the status of tasks for week 6:
 | Tanvi Waghela | I uploaded the project description and worked on the weekly log for this week |
 | Marie-Claire Yumba |  |
 | Sohayl Zaman |  |
-| Richard Abatan Yaya-Abatan |  |
+| Richard Abatan Yaya-Abatan | I uploaded the functional requiremnts to the repository |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
 | Yamin Zahoor |   | |
@@ -112,7 +112,7 @@ Here are the status of tasks for week 7:
 | Tanvi Waghela | I created the functional-requirements.md file, added functional requirements 1 to 3, and worked on the weekly log for this week |
 | Marie-Claire Yumba |  |
 | Sohayl Zaman |  |
-| Richard Abatan Yaya-Abatan |  |
+| Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
 | Yamin Zahoor |   | |
