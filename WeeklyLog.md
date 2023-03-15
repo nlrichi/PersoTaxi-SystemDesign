@@ -187,6 +187,7 @@ Here are the status of tasks for week 7:
 | Yamin Zahoor |   | |
 
 **Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 7 to 9, 13 to 15, 20 to 23 and add/remove requirements as necessary
+
 **Note:** 
     - ***Marie-Claire Yumba***, ***Sohayl Zaman***, ***Abdi Yousuf***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
     - ***Tanvi Waghela*** could not make it to the surgery session on March 10 due to weather conditions
