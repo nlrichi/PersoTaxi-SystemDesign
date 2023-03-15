@@ -150,3 +150,43 @@ Here are the tasks that have been assigned to each group member for this week:
     - Work with your group to create a UML Diagram for PersoTaxi
     - Upload the Use Case Description to GitLab
     - Refine functional requirements 20 to 23 and add/remove requirements as necessary
+
+### End of Week Log - Week 8
+
+#### Status of Tasks for Week 8
+Here are the status of tasks for week 7:
+1. ***Tanvi Waghela***
+    - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
+2. ***Marie-Claire Yumba***
+    - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
+    - Refine functional requirements 4 to 6 and add/remove requirements as necessary - *Completed*
+3. ***Sohayl Zaman*** 
+    - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
+    - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Incomplete*
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
+5. ***Abdi Yousuf*** 
+    - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
+    - Refine functional requirements 13 to 15 and add/remove requirements as necessary - *Incomplete*
+6. ***Kavindu Walisinghe***
+    - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
+    - Refine functional requirements 16 to 19 and add/remove requirements as necessary - *Completed*
+7. ***Yamin Zahoor*** 
+    - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
+    - Upload the Use Case Description to GitLab - *Completed*
+    - Refine functional requirements 20 to 23 and add/remove requirements as necessary - *Incomplete*
+
+|Student Name  | Description of Work Completed This Week |
+| :-----------: | :-----------: |
+| Tanvi Waghela | I made changes to the UML Class Diagram that was created during the surgery session, and worked on the weekly log for this week |
+| Marie-Claire Yumba |  |
+| Sohayl Zaman |  |
+| Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
+| Abdi Yousuf |  |
+| Kavindu Walisinghe |  |
+| Yamin Zahoor |   | |
+
+**Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 7 to 9, 13 to 15, 20 to 23 and add/remove requirements as necessary
+**Note:** 
+    - ***Marie-Claire Yumba***, ***Sohayl Zaman***, ***Abdi Yousuf***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
+    - ***Tanvi Waghela*** could not make it to the surgery session on March 10 due to weather conditions
