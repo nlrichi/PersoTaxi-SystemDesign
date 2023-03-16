@@ -49,7 +49,7 @@ Here are the status of tasks for week 6:
 |Student Name  | Description of Work Completed This Week |
 | :-----------: | :-----------: |
 | Tanvi Waghela | I uploaded the project description and worked on the weekly log for this week |
-| Marie-Claire Yumba |  |
+| Marie-Claire Yumba |  | I Uploaded the Survey Questions to GitLab
 | Sohayl Zaman |  |
 | Richard Abatan Yaya-Abatan | I uploaded the functional requiremnts to the repository |
 | Abdi Yousuf |  |
@@ -73,7 +73,7 @@ Here are the tasks that have been assigned to each group member for this week:
     - Refine functional requirements 1 to 3 and add/remove requirements as necessary
 2. ***Marie-Claire Yumba***
     - Refine functional requirements 4 to 6 and add/remove requirements as necessary
-    - Upload the Survey Questions to GitLab
+    - Upload the Survey Questions to GitLab 
 3. ***Sohayl Zaman*** 
     - Refine functional requirements 7 to 9 and add/remove requirements as necessary
 4. ***Richard Abatan Yaya-Abatan*** 
@@ -93,7 +93,7 @@ Here are the status of tasks for week 7:
 1. ***Tanvi Waghela*** 
     - Refine functional requirements 1 to 3 and add/remove requirements as necessary - *Completed*
 2. ***Marie-Claire Yumba***
-    - Refine functional requirements 4 to 6 and add/remove requirements as necessary - *Incomplete*
+    - Refine functional requirements 4 to 6 and add/remove requirements as necessary - *Completed*
     - Upload the Survey Questions to GitLab - *Completed*
 3. ***Sohayl Zaman*** 
     - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Incomplete*
@@ -110,7 +110,7 @@ Here are the status of tasks for week 7:
 |Student Name  | Description of Work Completed This Week |
 | :-----------: | :-----------: |
 | Tanvi Waghela | I created the functional-requirements.md file, added functional requirements 1 to 3, and worked on the weekly log for this week |
-| Marie-Claire Yumba |  |
+| Marie-Claire Yumba |  | I Refined the functional requirements 4 to 6 as necessary
 | Sohayl Zaman |  |
 | Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
 | Abdi Yousuf |  |
