@@ -191,3 +191,30 @@ Here are the status of tasks for week 7:
 **Note:** 
 1. ***Marie-Claire Yumba***, ***Sohayl Zaman***, ***Abdi Yousuf***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
 2. ***Tanvi Waghela*** could not make it to the surgery session on March 10 due to weather conditions
+
+# Week 9
+### Beginning of the Week Log - Week 9
+
+**Summary:** This week, our group will refine the UML class diagram we made in Week 8.
+
+**Work that needs to be completed this week:**
+Our group will be tasked with refining the UML class diagram we made in Week 8
+
+#### Assigning Tasks to Group Members
+Here are the tasks that have been assigned to each group member for this week:
+1. ***Tanvi Waghela***
+    - Work with your group to refine the UML Diagram for PersoTaxi
+2. ***Marie-Claire Yumba***
+    - Work with your group to refine the UML Diagram for PersoTaxi
+3. ***Sohayl Zaman*** 
+    - Work with your group to refine the UML Diagram for PersoTaxi
+    - Refine functional requirements 7 to 9 and add/remove requirements as necessary
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to refine the UML Diagram for PersoTaxi
+5. ***Abdi Yousuf*** 
+    - Work with your group to refine the UML Diagram for PersoTaxi
+    - Refine functional requirements 13 to 15 and add/remove requirements as necessary
+6. ***Kavindu Walisinghe***
+    - Work with your group to refine the UML Diagram for PersoTaxi
+7. ***Yamin Zahoor*** 
+    - Work with your group to refine the UML Diagram for PersoTaxi
