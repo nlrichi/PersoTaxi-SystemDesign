@@ -18,7 +18,7 @@
 17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
 18. Riders can leave a review plus star rating for their drivers so that the riders know the quality of their drivers.
 19. Drivers may also give the rider(s) a star rating so that other drivers can choose to not accept the ride if the rider(s) star rating affects them. 
-20. 
-21. 
-22. 
-23. 
+20. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment.
+21. The app will be intuitive with easily recognizable symbols as navigation prompts so as to make the app more user-friendly.  
+22. Users can seek assistance within the system to ensure their questions are answered.  
+23. The user support services should be available from 8 am to 8 pm for any queries.
