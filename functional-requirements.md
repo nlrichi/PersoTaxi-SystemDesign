@@ -5,10 +5,10 @@
 4. The user must create a profile/account with their personal details provided – full name, email address, DOB, phone, gender, address for identification and security purposes.The user must provide proof of Name,Gender and DOB by uploading a form of ID with picture (driving license,voting card...) to be checked by the system. The user must also take a selfie to ensure the user isnt pretending to be somebody else. The system must allow the user to add or update their profile information as needed once they are verified.
 5.  The system must not allow ride bookings without a valid payment method because drivers need to be paid for the rides they provide.The system should also provide the user with multiple payment options such as credit/debit cards,digital wallets,or other online payment methods. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment. A hold will be placed on the account to ensure payment will go through. user then will not be able to book if the estimated ride cost is not sufficent in their payment balance 
 6. 
-7. 
+7. The rider can choose to get matched based on only gender, only personality, or both because the rider’s comfortability is the main priority. 
 8. 
 9. 
-10. The user must be able to decline their co-rider for any reason they see fit so a compatible match  for their ride can be made. 
+10. The user must be able to decline their co-rider for any reason they see fit. They will not see the co-riders photo but a general profile of the co-rider and their reviews completed by the driver and other co-riders. This means if the myers-briggs type indicator incorrectly assesses their personality, other co-riders can assess them and people on the app can be made aware
 11. The user must be shown a data collection form to which they must consent so the system can process their data in accordance to the Data Protection Act.
 12. The system must request permission for location tracking so the service can connect riders and drivers based on location.
 13. 
