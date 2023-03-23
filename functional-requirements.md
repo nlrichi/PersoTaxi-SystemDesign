@@ -12,7 +12,7 @@
 11. The user must be shown a data collection form to which they must consent so the system can process their data in accordance to the Data Protection Act.
 12. The system must request permission for location tracking so the service can connect riders and drivers based on location.
 13. Drivers must allow location tracking so riders can track them at any time during the booking. this link can be shared with friends/family so the rider can also feel safe knowing family are aware of their positon 
-14. 
+14.Drivers can also cancel rides if they cannot/do not want to deliver the service. Constant cancellation will impact drivers booking recieved and reduce payout commision recieved. this is to incentive the driver to not cancel rides.  
 15. 
 16. Users in the system can find and add friends on the app to share rides with.
 17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
