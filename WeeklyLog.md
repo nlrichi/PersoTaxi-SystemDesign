@@ -111,7 +111,7 @@ Here are the status of tasks for week 7:
 | :-----------: | :-----------: |
 | Tanvi Waghela | I created the functional-requirements.md file, added functional requirements 1 to 3, and worked on the weekly log for this week |
 | Marie-Claire Yumba |  | I Refined the functional requirements 4 to 6 as necessary
-| Sohayl Zaman |  |
+| Sohayl Zaman |  | 
 | Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |

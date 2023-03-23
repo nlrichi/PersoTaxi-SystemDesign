@@ -2,7 +2,7 @@
 1. The user must be shown questions from the Myers-Briggs type indicator test so that the personality test can be completed.
 2. The system should collect the answers the user submits in the personality test to calculate the personality of the user.
 3. The system should display the personality type of the user under their account details so that drivers, riders, and friends of the user can know the user’s personality type. 
-4. 
+4. The user must create a profile/account with their personal details provided – full name, email address, DOB, phone, gender, address for identification and security purposes.The user must provide proof of Name,Gender and DOB by uploading a form of ID with picture (driving license,voting card...) to be checked by the system. The user must also take a selfie to ensure the user isnt pretending to be somebody else. The system must allow the user to add or update their profile information as needed once they are verified.
 5.  
 6. 
 7. 
