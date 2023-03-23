@@ -11,7 +11,7 @@
 10. The user must be able to decline their co-rider for any reason they see fit. They will not see the co-riders photo but a general profile of the co-rider and their reviews completed by the driver and other co-riders. This means if the myers-briggs type indicator incorrectly assesses their personality, other co-riders can assess them and people on the app can be made aware
 11. The user must be shown a data collection form to which they must consent so the system can process their data in accordance to the Data Protection Act.
 12. The system must request permission for location tracking so the service can connect riders and drivers based on location.
-13. 
+13. Drivers must allow location tracking so riders can track them at any time during the booking. this link can be shared with friends/family so the rider can also feel safe knowing family are aware of their positon 
 14. 
 15. 
 16. Users in the system can find and add friends on the app to share rides with.
