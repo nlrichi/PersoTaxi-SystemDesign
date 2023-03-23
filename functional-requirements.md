@@ -3,7 +3,7 @@
 2. The system should collect the answers the user submits in the personality test to calculate the personality of the user.
 3. The system should display the personality type of the user under their account details so that drivers, riders, and friends of the user can know the user’s personality type. 
 4. The user must create a profile/account with their personal details provided – full name, email address, DOB, phone, gender, address for identification and security purposes.The user must provide proof of Name,Gender and DOB by uploading a form of ID with picture (driving license,voting card...) to be checked by the system. The user must also take a selfie to ensure the user isnt pretending to be somebody else. The system must allow the user to add or update their profile information as needed once they are verified.
-5.  
+5.  The system must not allow ride bookings without a valid payment method because drivers need to be paid for the rides they provide.The system should also provide the user with multiple payment options such as credit/debit cards,digital wallets,or other online payment methods. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment. A hold will be placed on the account to ensure payment will go through. user then will not be able to book if the estimated ride cost is not sufficent in their payment balance 
 6. 
 7. 
 8. 
@@ -18,7 +18,7 @@
 17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
 18. Riders can leave a review plus star rating for their drivers so that the riders know the quality of their drivers.
 19. Drivers may also give the rider(s) a star rating so that other drivers can choose to not accept the ride if the rider(s) star rating affects them. 
-20. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment.
+
 21. The app will be intuitive with easily recognizable symbols as navigation prompts so as to make the app more user-friendly.  
 22. Users can seek assistance within the system to ensure their questions are answered.  
 23. The user support services should be available from 8 am to 8 pm for any queries.
