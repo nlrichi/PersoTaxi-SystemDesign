@@ -161,8 +161,8 @@ Here are the status of tasks for week 7:
     - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
     - Refine functional requirements 4 to 6 and add/remove requirements as necessary - *Completed*
 3. ***Sohayl Zaman*** 
-    - Work with your group to create a UML Diagram for PersoTaxi - *Incomplete*
-    - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Incomplete*
+    - Work with your group to create a UML Diagram for PersoTaxi - *completed*
+    - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Completed*
 4. ***Richard Abatan Yaya-Abatan*** 
     - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
 5. ***Abdi Yousuf*** 
@@ -180,7 +180,7 @@ Here are the status of tasks for week 7:
 | :-----------: | :-----------: |
 | Tanvi Waghela | I made changes to the UML Class Diagram that was created during the surgery session, and worked on the weekly log for this week |
 | Marie-Claire Yumba |  |
-| Sohayl Zaman |  |
+| Sohayl Zaman | Refined Functional requirements  |
 | Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
@@ -189,8 +189,9 @@ Here are the status of tasks for week 7:
 **Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 7 to 9, 13 to 15, 20 to 23 and add/remove requirements as necessary
 
 **Note:** 
-1. ***Marie-Claire Yumba***, ***Sohayl Zaman***, ***Abdi Yousuf***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
+1. ***Marie-Claire Yumba***,***Abdi Yousuf***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
 2. ***Tanvi Waghela*** could not make it to the surgery session on March 10 due to weather conditions
+3. (message added by Sohayl) Absence Authorised by university. 
 
 # Week 9
 ### Beginning of the Week Log - Week 9
@@ -208,7 +209,7 @@ Here are the tasks that have been assigned to each group member for this week:
     - Work with your group to refine the UML Diagram for PersoTaxi
 3. ***Sohayl Zaman*** 
     - Work with your group to refine the UML Diagram for PersoTaxi
-    - Refine functional requirements 7 to 9 and add/remove requirements as necessary
+    - Refine functional requirements 7 to 9 and add/remove requirements as necessary - *Completed* 
 4. ***Richard Abatan Yaya-Abatan*** 
     - Work with your group to refine the UML Diagram for PersoTaxi
 5. ***Abdi Yousuf*** 
@@ -218,3 +219,14 @@ Here are the tasks that have been assigned to each group member for this week:
     - Work with your group to refine the UML Diagram for PersoTaxi
 7. ***Yamin Zahoor*** 
     - Work with your group to refine the UML Diagram for PersoTaxi
+
+    |Student Name  | Description of Work Completed This Week |
+| :-----------: | :-----------: |
+| Tanvi Waghela |  |
+| Marie-Claire Yumba |  |
+| Sohayl Zaman | I worked on the Weekly log this week. i edited last weeks log as my absence was authorised. Completed missing functional requirements.All of week 8 work as a group that was not completed; i completed. Slight refinment to 7 to match 6.requirement 4 updated with stringent checks.requirement 20 removed. requirement 5 refined with requirement 20 as they clashed. 7 to 9, 13 to 15, 20 to 23 completed. added/removed edited to bring task back upto date. No more work outstanding. 
+ |
+| Richard Abatan Yaya-Abatan |  |
+| Abdi Yousuf | Helped Sohayl.  |
+| Kavindu Walisinghe |  |
+| Yamin Zahoor |  |
