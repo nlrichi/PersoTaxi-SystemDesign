@@ -13,7 +13,7 @@
 12. The system must request permission for location tracking so the service can connect riders and drivers based on location.
 13. Drivers must allow location tracking so riders can track them at any time during the booking. this link can be shared with friends/family so the rider can also feel safe knowing family are aware of their positon 
 14.Drivers can also cancel rides if they cannot/do not want to deliver the service. Constant cancellation will impact drivers booking recieved and reduce payout commision recieved. this is to incentive the driver to not cancel rides.  
-15. 
+15. Users in the system can like or super-like co-riders and vice versa. Also, allow friend requests to be sent. Ultimately, matching strangers togheter to speak and interact with one another. The app will allow these 2 or more people to chat amongst one another. The app would then have a feature where a taxi could be requested to the location of the people and bring them face-to-face. This can also have a feature of dropping them off to a random local venue,cafe,club,pub... A possible other source of venue by being paid by businesses to bring customers to them. 
 16. Users in the system can find and add friends on the app to share rides with.
 17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
 18. Riders can leave a review plus star rating for their drivers so that the riders know the quality of their drivers.
