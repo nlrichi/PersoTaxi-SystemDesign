@@ -1,8 +1,11 @@
 # Functional Requirements
-1. The user must be shown questions from the Myers-Briggs type indicator test so that the personality test can be completed.
+1. The system  must be show the user questions from the Myers-Briggs type indicator test so that the personality test can be completed.
 2. The system should collect the answers the user submits in the personality test to calculate the personality of the user.
 3. The system should display the personality type of the user under their account details so that drivers, users, and friends of the user can know the user’s personality type. 
 4. The user must create a profile/account with their personal details provided – full name, email address, DOB, phone, gender, address for identification and security purposes.The user must provide proof of Name,Gender and DOB by uploading a form of ID with picture (driving license,voting card...) to be checked by the system. The user must also take a selfie to ensure the user isnt pretending to be somebody else. The system must allow the user to add or update their profile information as needed once they are verified.
+4.1 The system must verify user inputted details provided. The system must have a verification in place to verify details inputted. 
+4.2 the system must have a form of captcha-code so the system isnt attacked by multiple accounts. (bot attack)
+4.3 The system should have a terms and privacy policies in place and show how users data will be used and promised it wont be sold to third parties.
 5.  The system must not allow ride bookings without a valid payment method because drivers need to be paid for the rides they provide.The system should also provide the user with multiple payment options such as credit/debit cards,digital wallets,or other online payment methods. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment. A hold will be placed on the account to ensure payment will go through. user then will not be able to book if the estimated ride cost is not sufficent in their payment balance 
 6. The system should allow matches based only on certain traits such as gender. 
 6.1 if the user user does not choose, the system will automatically match by personality so that it ensures the user recieve a math.
