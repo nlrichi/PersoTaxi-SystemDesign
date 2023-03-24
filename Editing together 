@@ -1,0 +1,15 @@
+Shared document.  Edits made here 
+Feedback we need to be sure is edited
+Requirements
+
+Professors Feedback: 
+They are prioritised and phrased with the priorisation verbs discussed during the lectures ("must", "should", can instead of "could"). 
+
+They are  properly phrased as requirements (e.g., starting with "The user..." or "The system..."). However, 
+
+they have several shortcomings. They don't all provide a very specific detail about a small aspect of the system, but sometimes cover entire subsystem 
+
+(e.g., "15. The system should issue riders with a refund to their original payment method if the driver cancels the ride to ensure that riders don’t pay for rides that didn’t occur." would need to be broken down into several functional requirements about  [e.g., add, update, delete refund request, ...]. Some of your functional requirements describe processes, e.g., "15. The system should issue riders with a refund to their original payment method if the driver cancels the ride to ensure that riders don’t pay for rides that didn’t occur.". 
+
+
+Some of your functional requirements are actually non-functional requirements, e.g., "21. User friendly interface - the app should be intuitive with easily recognizable symbols as navigation prompts so that it's easy for the user to use the system.".
