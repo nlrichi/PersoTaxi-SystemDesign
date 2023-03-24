@@ -6,7 +6,18 @@
 4.1 The system must verify user inputted details provided. The system must have a verification in place to verify details inputted. 
 4.2 the system must have a form of captcha-code so the system isnt attacked by multiple accounts. (bot attack)
 4.3 The system should have a terms and privacy policies in place and show how users data will be used and promised it wont be sold to third parties.
-5.  The system must not allow ride bookings without a valid payment method because drivers need to be paid for the rides they provide.The system should also provide the user with multiple payment options such as credit/debit cards,digital wallets,or other online payment methods. Users are given various convenient payment options, such as PayPal, Apple/Google Pay, and Card payment. A hold will be placed on the account to ensure payment will go through. user then will not be able to book if the estimated ride cost is not sufficent in their payment balance 
+
+
+5.
+ 
+5.1 The system must verify a valid payment method before allowing a user to book.The verification process should ensure that the payment method is valid and has sufficient funds to cover the cost of the ride.
+5.2 The system should provide multiple payment methods such as: credit/debit; digital wallets(paypal/apple pay)
+5.3 The system should place a hold on the user's account to ensure that payment will go through.
+5.4 The system should have a overall wallet showing all their payment system
+5.5 The system should hold a loyalty wallet storing credits to allow booking.
+
+
+
 6. The system should allow matches based only on certain traits such as gender. 
 6.1 if the user user does not choose, the system will automatically match by personality so that it ensures the user recieve a math.
 6.2 the system should use a default setting to match the user with a driver based on their personality traits and other relevant factors.In additiion the system should provide the user with an option to change their matching criteria at any time, and the system should prioritize the user's safety, comfort, and preferences during the matching process
