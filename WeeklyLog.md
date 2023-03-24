@@ -226,8 +226,14 @@ Here are the tasks that have been assigned to each group member for this week:
 
 | Tanvi Waghela | UML diagram |
 | Marie-Claire Yumba | UML diagram  |
-| Sohayl Zaman  | I worked on the Weekly log this week. i edited last weeks log as my absence was authorised. Completed missing functional requirements.All of week 8 work as a group that was not completed; i completed. Slight refinment to 7 to match 6.requirement 4 updated with stringent checks.requirement 20 removed. requirement 5 refined with requirement 20 as they clashed. 7 to 9, 13 to 15, 20 to 23 completed. added/removed edited to bring task back upto date. No more work outstanding. |
+| Sohayl Zaman  | I worked on the Weekly log this week. i edited last weeks log as my absence was authorised. Completed missing functional requirements.All of week 8 work as a group that was not completed; i completed. Slight refinment to 7 to match 6.requirement 4 updated with stringent checks.requirement 20 removed. requirement 5 refined with requirement 20 as they clashed. 7 to 9, 13 to 15, 20 to 23 completed. added/removed edited to bring task back upto date.  New branch added for shared work and feeback for changes needed in Functional requirment further |
 | Richard Abatan Yaya-Abatan | UML diagram |
 | Abdi Yousuf | Helped Sohayl with merging commits. UML diagram  |
 | Kavindu Walisinghe | UML diagram  |
 | Yamin Zahoor | UML diagram   |
+
+
+Tasks to do in Week 10.  
+From feedback identified for Functions Requirement (see new branch added) ensure the phrasing on all functions is correct.  
+Ensure non-functions are not in functions
+Break down the functions in further detail. 
