@@ -220,13 +220,14 @@ Here are the tasks that have been assigned to each group member for this week:
 7. ***Yamin Zahoor*** 
     - Work with your group to refine the UML Diagram for PersoTaxi
 
-    |Student Name  | Description of Work Completed This Week |
-| :-----------: | :-----------: |
-| Tanvi Waghela |  |
-| Marie-Claire Yumba |  |
-| Sohayl Zaman | I worked on the Weekly log this week. i edited last weeks log as my absence was authorised. Completed missing functional requirements.All of week 8 work as a group that was not completed; i completed. Slight refinment to 7 to match 6.requirement 4 updated with stringent checks.requirement 20 removed. requirement 5 refined with requirement 20 as they clashed. 7 to 9, 13 to 15, 20 to 23 completed. added/removed edited to bring task back upto date. No more work outstanding. 
- |
-| Richard Abatan Yaya-Abatan |  |
-| Abdi Yousuf | Helped Sohayl.  |
-| Kavindu Walisinghe |  |
-| Yamin Zahoor |  |
+    ### End of week 9 log. Work completed 
+
+|Student Name   | Description of Work Completed This Week |
+
+| Tanvi Waghela | UML diagram |
+| Marie-Claire Yumba | UML diagram  |
+| Sohayl Zaman  | I worked on the Weekly log this week. i edited last weeks log as my absence was authorised. Completed missing functional requirements.All of week 8 work as a group that was not completed; i completed. Slight refinment to 7 to match 6.requirement 4 updated with stringent checks.requirement 20 removed. requirement 5 refined with requirement 20 as they clashed. 7 to 9, 13 to 15, 20 to 23 completed. added/removed edited to bring task back upto date. No more work outstanding. |
+| Richard Abatan Yaya-Abatan | UML diagram |
+| Abdi Yousuf | Helped Sohayl with merging commits. UML diagram  |
+| Kavindu Walisinghe | UML diagram  |
+| Yamin Zahoor | UML diagram   |
