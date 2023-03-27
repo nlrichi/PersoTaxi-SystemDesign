@@ -251,7 +251,32 @@ Here are the status of tasks for week 7:
 | Kavindu Walisinghe |  |
 | Yamin Zahoor |  |
 
-**Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 13 to 15 and add/remove requirements as necessary
+**Work that still needs to be completed (These are the tasks that were left incomplete):** None
 
 **Note:** 
-1. ***Marie-Claire Yumba***,***Abdi Yousuf***, and ***Kavindu Walisinghe***, and ***Sohayl Zaman*** did not help refine the UML Class Diagram
+1. ***Marie-Claire Yumba***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, and ***Sohayl Zaman*** did not help refine the UML Class Diagram
+
+# Week 10
+### Beginning of the Week Log - Week 10
+
+**Summary:** This week, our group will create sketches, wireframes, and high-fidelity prototypes representing at least three requirements of our system, as well as a description of how the requirements and functionalities are represented in these prototypes.
+
+**Work that needs to be completed this week:**
+Our group will be tasked with creating prototypes and sketches of at least three of our requirements as well as writing a desscription of how the requirements are represented in these prototypes
+
+#### Assigning Tasks to Group Members
+Here are the tasks that have been assigned to each group member for this week:
+1. ***Tanvi Waghela***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+2. ***Marie-Claire Yumba***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+3. ***Sohayl Zaman*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+5. ***Abdi Yousuf*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+6. ***Kavindu Walisinghe***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+7. ***Yamin Zahoor*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
