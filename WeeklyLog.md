@@ -314,3 +314,28 @@ Here are the status of tasks for week 10:
 
 **Note:** 
 1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help create sketches, prototypes, or wireframes
+
+# Week 11
+### Beginning of the Week Log - Week 11
+
+**Summary:** This week, our group will refine our sketches, wireframes, and high-fidelity prototypes that represent at least three requirements of our system, as well as refine the description of how the requirements and functionalities are represented in these prototypes.
+
+**Work that needs to be completed this week:**
+Our group will be tasked with refining our prototypes and sketches as well as refine our description of how the requirements are represented in these prototypes
+
+#### Assigning Tasks to Group Members
+Here are the tasks that have been assigned to each group member for this week:
+1. ***Tanvi Waghela***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+2. ***Marie-Claire Yumba***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+3. ***Sohayl Zaman*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+5. ***Abdi Yousuf*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+6. ***Kavindu Walisinghe***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+7. ***Yamin Zahoor*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches
