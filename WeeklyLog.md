@@ -154,7 +154,7 @@ Here are the tasks that have been assigned to each group member for this week:
 ### End of Week Log - Week 8
 
 #### Status of Tasks for Week 8
-Here are the status of tasks for week 7:
+Here are the status of tasks for week 8:
 1. ***Tanvi Waghela***
     - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
 2. ***Marie-Claire Yumba***
@@ -223,7 +223,7 @@ Here are the tasks that have been assigned to each group member for this week:
 ### End of Week Log - Week 9
 
 #### Status of Tasks for Week 9
-Here are the status of tasks for week 7:
+Here are the status of tasks for week 9:
 1. ***Tanvi Waghela***
     - Work with your group to refine the UML Diagram for PersoTaxi - *Completed*
 2. ***Marie-Claire Yumba***
@@ -280,3 +280,37 @@ Here are the tasks that have been assigned to each group member for this week:
     - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
 7. ***Yamin Zahoor*** 
     - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made
+
+### End of Week Log - Week 10
+
+#### Status of Tasks for Week 10
+Here are the status of tasks for week 10:
+1. ***Tanvi Waghela***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+2. ***Marie-Claire Yumba***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+3. ***Sohayl Zaman*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+5. ***Abdi Yousuf*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+6. ***Kavindu Walisinghe***
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+7. ***Yamin Zahoor*** 
+    - Work with your group to create sketches and prototypes of at least three requirements and write a description of the sketches made - *Completed*
+
+|Student Name  | Description of Work Completed This Week |
+| :-----------: | :-----------: |
+| Tanvi Waghela | I worked on the sketches/prototypes, wrote the description for each prototype, and worked on the weekly log for this week |
+| Marie-Claire Yumba |  |
+| Sohayl Zaman |  |
+| Richard Abatan Yaya-Abatan |  |
+| Abdi Yousuf |  |
+| Kavindu Walisinghe |  |
+| Yamin Zahoor |  |
+
+**Work that still needs to be completed (These are the tasks that were left incomplete):** None
+
+**Note:** 
+1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help create sketches, prototypes, or wireframes
