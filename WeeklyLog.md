@@ -313,7 +313,7 @@ Here are the status of tasks for week 10:
 **Work that still needs to be completed (These are the tasks that were left incomplete):** None
 
 **Note:** 
-1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help create sketches, prototypes, or wireframes
+1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help create sketches, prototypes, or wireframes, or write the prototype description
 
 # Week 11
 ### Beginning of the Week Log - Week 11
@@ -339,3 +339,37 @@ Here are the tasks that have been assigned to each group member for this week:
     - Work with your group to refine the sketches/prototypes and refine the description of the sketches
 7. ***Yamin Zahoor*** 
     - Work with your group to refine the sketches/prototypes and refine the description of the sketches
+
+### End of Week Log - Week 11
+
+#### Status of Tasks for Week 11
+Here are the status of tasks for week 11:
+1. ***Tanvi Waghela***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+2. ***Marie-Claire Yumba***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+3. ***Sohayl Zaman*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+4. ***Richard Abatan Yaya-Abatan*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+5. ***Abdi Yousuf*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+6. ***Kavindu Walisinghe***
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+7. ***Yamin Zahoor*** 
+    - Work with your group to refine the sketches/prototypes and refine the description of the sketches - *Completed*
+
+|Student Name  | Description of Work Completed This Week |
+| :-----------: | :-----------: |
+| Tanvi Waghela | I worked refining the sketches/prototypes and the prototype description, and worked on the weekly log for this week |
+| Marie-Claire Yumba |  |
+| Sohayl Zaman |  |
+| Richard Abatan Yaya-Abatan |  |
+| Abdi Yousuf |  |
+| Kavindu Walisinghe |  |
+| Yamin Zahoor |  |
+
+**Work that still needs to be completed (These are the tasks that were left incomplete):** None
+
+**Note:** 
+1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help refine the sketches, prototypes, or wireframes, or write the prototype description
