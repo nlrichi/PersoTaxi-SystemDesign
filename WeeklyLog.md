@@ -44,7 +44,7 @@ Here are the status of tasks for week 6:
 6. ***Kavindu Walisinghe*** 
     - Upload the Use Case Diagram to GitLab - *Completed*
 7. ***Yamin Zahoor*** 
-    - Upload the Use Case Descriptiion to GitLab - *Incomplete*
+    - Upload the Use Case Descriptiion to GitLab - *Completed*
 
 |Student Name  | Description of Work Completed This Week |
 | :-----------: | :-----------: |
@@ -54,9 +54,9 @@ Here are the status of tasks for week 6:
 | Richard Abatan Yaya-Abatan | I uploaded the functional requiremnts to the repository |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
-| Yamin Zahoor |   | |
+| Yamin Zahoor | I uploaded the Use Case Description to GitLab |
 
-**Work that still needs to be completed (These are the tasks that were left incomplete):** Uploading the survey questions to GitLab and uploading the Use Case description to GitLab
+**Work that still needs to be completed (These are the tasks that were left incomplete):** Uploading the survey questions to GitLab 
 **Note:** These tasks will be assigned to the same students to be completed
 
 # Week 7
@@ -104,7 +104,6 @@ Here are the status of tasks for week 7:
 6. ***Kavindu Walisinghe*** 
     - Refine functional requirements 16 to 19 and add/remove requirements as necessary - *Incomplete*
 7. ***Yamin Zahoor***
-    - Upload the Use Case Description to GitLab - *Incomplete*
     - Refine functional requirements 20 to 23 and add/remove requirements as necessary - *Incomplete*
 
 |Student Name  | Description of Work Completed This Week |
@@ -148,7 +147,6 @@ Here are the tasks that have been assigned to each group member for this week:
     - Refine functional requirements 16 to 19 and add/remove requirements as necessary
 7. ***Yamin Zahoor*** 
     - Work with your group to create a UML Diagram for PersoTaxi
-    - Upload the Use Case Description to GitLab
     - Refine functional requirements 20 to 23 and add/remove requirements as necessary
 
 ### End of Week Log - Week 8
@@ -173,7 +171,6 @@ Here are the status of tasks for week 8:
     - Refine functional requirements 16 to 19 and add/remove requirements as necessary - *Completed*
 7. ***Yamin Zahoor*** 
     - Work with your group to create a UML Diagram for PersoTaxi - *Completed*
-    - Upload the Use Case Description to GitLab - *Completed*
     - Refine functional requirements 20 to 23 and add/remove requirements as necessary - *Completed*
 
 |Student Name  | Description of Work Completed This Week |
@@ -184,9 +181,9 @@ Here are the status of tasks for week 8:
 | Richard Abatan Yaya-Abatan | I added functional requirements 10 to 12 and refined them. |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
-| Yamin Zahoor | I uploaded the Use Case Description and added functional rquirements 20-23 and refined them. |
+| Yamin Zahoor | I added functional requirements 20-23 and refined them and created the first bit of the UML diagram |
 
-**Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 7 to 9, 13 to 15, 20 to 23 and add/remove requirements as necessary
+**Work that still needs to be completed (These are the tasks that were left incomplete):** Refining functional requirements 7 to 9, 13 to 15 and add/remove requirements as necessary
 
 **Note:** 
 1. ***Marie-Claire Yumba***,***Abdi Yousuf***, ***Sohayl Zaman***, and ***Kavindu Walisinghe*** did not help make the UML Class Diagram
@@ -249,7 +246,7 @@ Here are the status of tasks for week 9:
 | Richard Abatan Yaya-Abatan |  |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
-| Yamin Zahoor |  |
+| Yamin Zahoor | I helped refining the UML Diagram according to the feedback recieved |
 
 **Work that still needs to be completed (These are the tasks that were left incomplete):** None
 
