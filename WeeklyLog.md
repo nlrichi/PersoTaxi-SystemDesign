@@ -83,7 +83,6 @@ Here are the tasks that have been assigned to each group member for this week:
 6. ***Kavindu Walisinghe*** 
     - Refine functional requirements 16 to 19 and add/remove requirements as necessary
 7. ***Yamin Zahoor***
-    - Upload the Use Case Description to GitLab
     - Refine functional requirements 20 to 23 and add/remove requirements as necessary
 
 ### End of Week Log - Week 7
