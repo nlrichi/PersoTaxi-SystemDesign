@@ -19,3 +19,6 @@ This represents all digital Survey Wireframes. Representing requirements: 1,2.
 
 ### User Input
 This Wireframe Satisfies functional requirements 7,8,12,19. The display logo at bottom for movement around screen which was shown in user details wireframe.  Location tracking on or off. Matching based on gender, age, personality and user decision before they take a ride. 
+
+### Settings
+This wireframe is based on functional requirements 20,21, 19. The settings page holds a live chat feature with a button to interact. A user chat box to input a question and a UI at the bottom. This as showsn previously highlights where the user is at the moment with a grey dark box at the bottom. The logo of business is situated in top right. The images are all over the screen. 
