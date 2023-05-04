@@ -10,3 +10,6 @@ This prototype represents the functional requirement *The system must request pe
 
 ### Wireframe Welcome Page
 The wireframe displays functional requirements 4, 4.1, 4.2, 4.3, 22, 23. These requirements are reflected in this basic digital wireframe sketch by giving the user a sign in screen; sign up screen and the buttons to move accordingly through the app. Certain functions such as security checks were shown and information was displayed with black filled bars and scroll logos with grey buttons to display a user action to enter/move between displays back and forth. My understanding with wireframes is to keep it very basic as its the inital design and is more used for layout. Hence, why layout on all screens have some similar allocations.
+
+### Account  Details
+Wireframe of the Account details displaying the survey results. Linking Facebook and user details. All functional requirements which were added. Please see functional requirements 23 and 3 as its based on them on a whole. 
