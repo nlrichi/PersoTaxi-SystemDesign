@@ -359,7 +359,7 @@ Here are the status of tasks for week 11:
 | :-----------: | :-----------: |
 | Tanvi Waghela | I worked refining the sketches/prototypes and the prototype description, and worked on the weekly log for this week |
 | Marie-Claire Yumba |  |
-| Sohayl Zaman |  |
+| Sohayl Zaman | i added further Functional Requirements. I uploaded multiple digital wireframe sketches and the prototype description for each wireframe, and worked on the weekly log for this week  |
 | Richard Abatan Yaya-Abatan |  |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
@@ -368,4 +368,4 @@ Here are the status of tasks for week 11:
 **Work that still needs to be completed (These are the tasks that were left incomplete):** None
 
 **Note:** 
-1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor***, and ***Sohayl Zaman*** did not help refine the sketches, prototypes, or wireframes, or write the prototype description
+1. ***Marie-Claire Yumba***, ***Richard Abatan Yaya-Abatan***, ***Abdi Yousuf***, ***Kavindu Walisinghe***, ***Yamin Zahoor*** did not help refine the sketches, prototypes, or wireframes, or write the prototype description
