@@ -359,7 +359,7 @@ Here are the status of tasks for week 11:
 | :-----------: | :-----------: |
 | Tanvi Waghela | I worked refining the sketches/prototypes and the prototype description, and worked on the weekly log for this week |
 | Marie-Claire Yumba |  |
-| Sohayl Zaman | i added further Functional Requirements. I uploaded multiple digital wireframe sketches and the prototype description for each wireframe, and worked on the weekly log for this week  |
+| Sohayl Zaman | i added further Functional Requirements. I uploaded multiple digital wireframe sketches and the prototype description for each wireframe, and worked on the weekly log for this week i added my UML diagram features to Admin. uploaded seprate doc as i couldnt change the current uml diagram   |
 | Richard Abatan Yaya-Abatan |  |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
