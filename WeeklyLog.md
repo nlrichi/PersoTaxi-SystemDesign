@@ -50,7 +50,7 @@ Here are the status of tasks for week 6:
 | :-----------: | :-----------: |
 | Tanvi Waghela | I uploaded the project description and worked on the weekly log for this week |
 | Marie-Claire Yumba |  | I Uploaded the Survey Questions to GitLab
-| Sohayl Zaman |  |
+| Sohayl Zaman | i uploaded survey questions  |
 | Richard Abatan Yaya-Abatan | I uploaded the functional requiremnts to the repository |
 | Abdi Yousuf |  |
 | Kavindu Walisinghe |  |
