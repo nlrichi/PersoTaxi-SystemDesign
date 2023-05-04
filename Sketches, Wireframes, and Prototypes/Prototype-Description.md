@@ -13,3 +13,6 @@ The wireframe displays functional requirements 4, 4.1, 4.2, 4.3, 22, 23. These r
 
 ### Account  Details
 Wireframe of the Account details displaying the survey results. Linking Facebook and user details. All functional requirements which were added. Please see functional requirements 23 and 3 as its based on them on a whole. 
+
+### survey
+This represents all digital Survey Wireframes. Representing requirements: 1,2. 
