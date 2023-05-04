@@ -40,3 +40,5 @@
 21. The app will be intuitive with easily recognizable symbols as navigation prompts so as to make the app more user-friendly.  
 22. Users can seek assistance within the system to ensure their questions are answered.  
 23. The user support services should be available from 8 am to 8 pm for any queries.
+24. the user will be welcomed with a log in and sign up page with forgot password and social media log in for quicker access.
+25. the user can go to settings and link their Facebook to an account if they didnt sign up through the facebook sign in on welcome screen. 
