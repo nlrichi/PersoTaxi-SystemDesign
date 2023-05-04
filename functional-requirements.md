@@ -36,9 +36,10 @@
 17. A ride cancelled by th suer means that they are issued with ride credits rather than a bank refund to mantain usage of the system.
 18. users can leave a review plus star rating for their drivers so that the users know the quality of their drivers.
 19. The system may also give the user(s) a star rating so that other drivers can choose to not accept the ride if the user(s) star rating affects them. 
+19.1 The admin can remove users who's star rating is too low. 
 
 21. The app will be intuitive with easily recognizable symbols as navigation prompts so as to make the app more user-friendly.  
 22. Users can seek assistance within the system to ensure their questions are answered.  
-23. The user support services should be available from 8 am to 8 pm for any queries.
+23. The user support services should be available from 8 am to 8 pm for any queries. 23.1 Admin will also be able to chat live to users for support or recieve quesitons/queries to answer later. 
 24. the user will be welcomed with a log in and sign up page with forgot password and social media log in for quicker access.
 25. the user can go to settings and link their Facebook to an account if they didnt sign up through the facebook sign in on welcome screen. 
