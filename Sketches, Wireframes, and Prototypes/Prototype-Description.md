@@ -16,3 +16,6 @@ Wireframe of the Account details displaying the survey results. Linking Facebook
 
 ### survey
 This represents all digital Survey Wireframes. Representing requirements: 1,2. 
+
+### User Input
+This Wireframe Satisfies functional requirements 7,8,12,19. The display logo at bottom for movement around screen which was shown in user details wireframe.  Location tracking on or off. Matching based on gender, age, personality and user decision before they take a ride. 
